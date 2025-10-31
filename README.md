@@ -11,8 +11,9 @@ Este projeto é uma **calculadora simples** desenvolvida em **Java**, com foco n
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/calculadora-poo.git
+   
 2.execulte 
 cd calculadora
-   javac *.java
+    javac *.java
 java Main
 
