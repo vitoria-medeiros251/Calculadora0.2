@@ -14,7 +14,7 @@ Este projeto é uma **calculadora simples** desenvolvida em **Java**, com foco n
    
 2.Acesse a pasta do projeto:
 
-''cd calculadora
+cd calculadora
 
 3. Compile os arquivos Java
    
